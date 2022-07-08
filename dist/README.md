@@ -1,9 +1,9 @@
-# good read me generator
+# Readme generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 ## Github URL 
-[jack anh le](https://github.com/jack anh le/)
+[jackanhle](https://github.com/jackanhle/)
 ## Description 
-using node to generate readme
+Its a node.js based tool
 ## Table of Contents 
 * [Installations](#dependencies)
 * [Usage](#usage)
@@ -15,19 +15,19 @@ using node to generate readme
 ## Installations (Dependencies) 
 To install dependencies, run these commands:
 ```
-npm install
+npm i
 ```
 ## Usage 
-This tool will allow user to create a README.md
+To generate a readme
 ## License 
       Copyright © MIT. All rights reserved. 
       
       Licensed under the MIT license.
 ## Contributors 
-everyone
+Anh le
 Contact me at lejack164@gmail.com
 ## Tests 
 To run tests, run these commands:
 ```
-node index.js
+npm test
 ```
