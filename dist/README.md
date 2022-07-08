@@ -3,7 +3,7 @@
 ## Github URL 
 [jackanhle](https://github.com/jackanhle/)
 ## Description 
-Its a node.js based tool
+using node.js to generate readme
 ## Table of Contents 
 * [Installations](#dependencies)
 * [Usage](#usage)
@@ -18,13 +18,13 @@ To install dependencies, run these commands:
 npm i
 ```
 ## Usage 
-To generate a readme
+To create good readme
 ## License 
       Copyright © MIT. All rights reserved. 
       
       Licensed under the MIT license.
 ## Contributors 
-Anh le
+Anh Le
 Contact me at lejack164@gmail.com
 ## Tests 
 To run tests, run these commands:
